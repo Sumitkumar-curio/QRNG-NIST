@@ -1,0 +1,10 @@
+Test Data File:C:/Users/sumit/Downloads/IIT J Sem Notes/Sem 3/Intro to Quantum tech/Project QRNG/binary_output.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	0.0                 	Non-Random
+03. Runs Test                                     	0.0                 	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	0.0                 	Non-Random
+10. Linear Complexity Test                        	0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cumulative Sums Test (Forward)                	0.0                 	Non-Random
